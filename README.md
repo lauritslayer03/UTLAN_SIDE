@@ -21,3 +21,5 @@ git add .
 git commit -m "la til instruksjoner til git"
 
 git push
+
+sex
